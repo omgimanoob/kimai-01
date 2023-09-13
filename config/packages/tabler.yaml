@@ -19,7 +19,7 @@ tabler:
         # true = only avatar, false = show username and title as well
         user_menu_condensed: true
         # url to your company logo
-        logo_url: "touch-icon-192x192.png"
+        logo_url: "android-chrome-192x192.png"
 
     knp_menu:
         enable: false
